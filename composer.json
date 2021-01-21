@@ -1,0 +1,19 @@
+{
+    "name": "arvind/contact",
+    "description": "this send email admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arvind.patel",
+            "email": "arvind.patel@iflair.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Arvind\\Contact\\": "src/"
+        }
+    }
+}
