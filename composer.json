@@ -15,5 +15,12 @@
         "psr-4": {
             "Arvind\\Contact\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Arvind\\Contact\\ContactServiceProvider"
+        ]
     }
+  }
 }
